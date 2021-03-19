@@ -27,7 +27,7 @@ html5lib==0.999
 httplib2==0.9.1
 idna==2.0
 invoke==1.0.0
-Jinja2==2.8
+Jinja2==2.11.3
 kombu==3.0.33
 language-selector==0.1
 linecache2==1.0.0
