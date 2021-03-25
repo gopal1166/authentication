@@ -65,7 +65,7 @@ python3-xlib==0.15
 PyTweening==1.0.3
 pytz==2014.10
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 reportlab==3.3.0
 requests==2.9.1
 requests-oauthlib==1.0.0
